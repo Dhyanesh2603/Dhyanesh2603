@@ -8,7 +8,7 @@ My work spans developer tools, backend systems, networking, distributed systems,
 
 ## Featured Projects
 
-### 🧠 Nous
+### Nous
 **Software Architecture Intelligence Platform**
 
 Nous is a static code analysis platform that transforms large codebases into interactive architectural knowledge graphs. It parses repositories into Abstract Syntax Trees (ASTs), constructs dependency and call graphs, enables semantic architecture search, provides Graph-RAG powered architectural reasoning, predicts change impact through a Ripple Effect Simulator, and performs security and architecture diagnostics.
@@ -27,7 +27,7 @@ Nous is a static code analysis platform that transforms large codebases into int
 
 ---
 
-### 🎤 MockForge
+### MockForge
 **AI Mock Interview Platform**
 
 An end-to-end platform for technical interview preparation featuring AI-generated interviews, real-time coding sessions, browser-based proctoring, speech analytics, and automated interview evaluation.
@@ -45,7 +45,7 @@ An end-to-end platform for technical interview preparation featuring AI-generate
 
 ---
 
-### ☁️ VinnoDrive
+### VinnoDrive
 **Cloud Storage Platform**
 
 A cloud storage platform focused on efficient storage through content-addressed deduplication, version history, secure sharing, developer APIs, and full-text search.
@@ -63,7 +63,7 @@ A cloud storage platform focused on efficient storage through content-addressed 
 
 ---
 
-### 📈 Arete
+### Arete
 **Engineering Productivity Platform**
 
 A productivity platform designed for software engineers that combines DSA tracking, spaced repetition, deep work, strategic planning, and long-term learning into a single workflow.
@@ -83,7 +83,7 @@ A productivity platform designed for software engineers that combines DSA tracki
 
 ## Currently Building
 
-### 🌐 Hoprix
+### Hoprix
 
 An offline-first peer-to-peer networking platform designed for high-speed communication without internet access. It features peer discovery, resumable transfers, custom transport protocols, and a modular architecture for future offline services.
 
@@ -96,7 +96,7 @@ An offline-first peer-to-peer networking platform designed for high-speed commun
 
 ---
 
-### 🎵 Resonare
+### Resonare
 
 An acoustic desk interface that transforms any desk into a touchless control surface using only a laptop's built-in microphones through Digital Signal Processing and Machine Learning.
 
@@ -159,4 +159,4 @@ Git • Linux • Docker • Tree-sitter • WebSockets • Firebase
 
 ## Connect
 
-- 📧 **Email:** dhyanesh263@gmail.com
+-  **Email:** dhyanesh263@gmail.com
