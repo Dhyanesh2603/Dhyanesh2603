@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/Dhyanesh2603/nous"><b>NOUS</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#interests">Interests</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#contact">Contact</a>
@@ -13,15 +13,13 @@
 
 <img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
-### Currently building
+### Currently
 
-<a href="https://github.com/Dhyanesh2603/nous">
-  <img src="./assets/building.svg?v=3" width="100%" alt="Currently building NOUS — AST pipeline, dependency graph, semantic index." />
-</a>
+<img src="./assets/building.svg?v=4" width="100%" alt="Building developer tools and code intelligence. Studying systems, networks and distributed computing. Exploring LLM applications and retrieval systems." />
 
 <img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
-### Featured engineering
+<h3 id="projects">Featured engineering</h3>
 
 <a href="https://github.com/Dhyanesh2603/nous">
   <img src="./assets/nous.svg?v=3" width="100%" alt="NOUS — Software Architecture Intelligence Platform. AST parsing, dependency graphs, semantic search and AI-assisted code understanding." />
