@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." />
+  <img src="./assets/hero.svg?v=3" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." />
 </div>
 
 <br />
@@ -11,20 +11,20 @@
   <a href="#contact">Contact</a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
 ### Currently building
 
 <a href="https://github.com/Dhyanesh2603/nous">
-  <img src="./assets/building.svg" width="100%" alt="Currently building NOUS — AST pipeline, dependency graph, semantic index." />
+  <img src="./assets/building.svg?v=3" width="100%" alt="Currently building NOUS — AST pipeline, dependency graph, semantic index." />
 </a>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
 ### Featured engineering
 
 <a href="https://github.com/Dhyanesh2603/nous">
-  <img src="./assets/nous.svg" width="100%" alt="NOUS — Software Architecture Intelligence Platform. AST parsing, dependency graphs, semantic search and AI-assisted code understanding." />
+  <img src="./assets/nous.svg?v=3" width="100%" alt="NOUS — Software Architecture Intelligence Platform. AST parsing, dependency graphs, semantic search and AI-assisted code understanding." />
 </a>
 
 <table>
@@ -47,15 +47,15 @@
 
 <sub>FUTURE BUILDS</sub>
 
-<img src="./assets/future.svg" width="100%" alt="Reserved slots: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." />
+<img src="./assets/future.svg?v=3" width="100%" alt="Reserved slots: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
 <h3 id="stack">Technical stack</h3>
 
-<img src="./assets/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: ML, Deep Learning, LLM Applications, RAG, Computer Vision. Systems: Networking, OS, Distributed, Embedded." />
+<img src="./assets/stack.svg?v=3" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: ML, Deep Learning, LLM Applications, RAG, Computer Vision. Systems: Networking, OS, Distributed, Embedded." />
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
 <h3 id="interests">Learning &amp; interests</h3>
 
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg?v=3" width="100%" alt="" />
 
 <h3 id="contact">Contact</h3>
 
@@ -92,4 +92,4 @@ Open to **SDE, AI Engineering and Systems** internships and roles.
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" />
+<img src="./assets/footer.svg?v=3" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" />
