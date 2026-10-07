@@ -31,7 +31,7 @@
 
   <!-- terminal -->
   <g class="mono" font-size="17">
-    <text x="56" y="108"><tspan fill="#6b6b72">$ </tspan><tspan fill="#ededed" class="type">whoami</tspan></text>
+    <text x="56" y="108"><tspan fill="#6b6b72">$ </tspan><tspan fill="#ededed">whoami</tspan></text>
   </g>
   <text x="56" y="178" class="sans r d1" font-size="54" font-weight="600" letter-spacing="-1.6" fill="#fafafa">Dhyanesh S</text>
   <text x="58" y="214" class="sans r d2" font-size="20" fill="#a1a1aa" letter-spacing="-.2">Software Engineer in Progress · CSE @ VIT Vellore</text>
@@ -46,13 +46,4 @@
     <text x="58" y="378"><tspan fill="#ededed">AI</tspan><tspan fill="#52525b"> × </tspan><tspan fill="#ededed">Systems</tspan><tspan fill="#52525b"> × </tspan><tspan fill="#ededed">Product Engineering</tspan></text>
   </g>
   <rect x="58" y="392" width="9" height="17" fill="#ededed" class="cur r d5"/>
-
-  <!-- monogram -->
-  <g transform="translate(930 150)" class="r d6">
-    <rect x="0" y="0" width="180" height="180" rx="36" fill="#0e0e10" stroke="#27272a"/>
-    <rect x="12" y="12" width="156" height="156" rx="26" fill="none" stroke="#fff" stroke-opacity=".04"/>
-    <text x="90" y="112" text-anchor="middle" class="sans" font-size="64" font-weight="600" letter-spacing="-3" fill="#fafafa">DS</text>
-    <rect x="62" y="132" width="56" height="2" rx="1" fill="#3b82f6"/>
-    <text x="90" y="210" text-anchor="middle" class="mono" font-size="11" fill="#52525b" letter-spacing="2">EST. VIT · 2026</text>
-  </g>
 </svg>
