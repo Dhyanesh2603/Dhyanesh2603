@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/v2/intro.svg" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." />
+  <picture><img src="./assets/v2/intro.svg" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." /></picture>
 </div>
 
 <br />
@@ -11,13 +11,13 @@
   <a href="#contact">Contact</a>
 </p>
 
-<img src="./assets/v2/line.svg" width="100%" alt="" />
+<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
 ### Currently
 
-<img src="./assets/v2/now.svg" width="100%" alt="Building developer tools and code intelligence. Studying systems, networks and distributed computing. Exploring LLM applications and retrieval systems." />
+<picture><img src="./assets/v2/now.svg" width="100%" alt="Building developer tools and code intelligence. Studying systems, networks and distributed computing. Exploring LLM applications and retrieval systems." /></picture>
 
-<img src="./assets/v2/line.svg" width="100%" alt="" />
+<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
 <h3 id="projects">Engineering projects</h3>
 
@@ -50,15 +50,15 @@
 
 <sub>NEXT BUILDS</sub>
 
-<img src="./assets/v2/next.svg" width="100%" alt="Next: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." />
+<picture><img src="./assets/v2/next.svg" width="100%" alt="Next: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." /></picture>
 
-<img src="./assets/v2/line.svg" width="100%" alt="" />
+<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
 <h3 id="stack">Technical stack</h3>
 
-<img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: Machine Learning, Deep Learning, LLM Applications, RAG Systems, Computer Vision. Systems: Networking, Operating Systems, Distributed Systems, Embedded Systems." />
+<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: Machine Learning, Deep Learning, LLM Applications, RAG Systems, Computer Vision. Systems: Networking, Operating Systems, Distributed Systems, Embedded Systems." /></picture>
 
-<img src="./assets/v2/line.svg" width="100%" alt="" />
+<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
 <h3 id="interests">Learning &amp; interests</h3>
 
@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-<img src="./assets/v2/line.svg" width="100%" alt="" />
+<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
 <h3 id="contact">Contact</h3>
 
@@ -95,4 +95,4 @@ Open to **SDE, AI Engineering and Systems** internships and roles.
 
 <br />
 
-<img src="./assets/v2/end.svg" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" />
+<picture><img src="./assets/v2/end.svg" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" /></picture>
