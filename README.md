@@ -1,162 +1,95 @@
-# Hi, I'm Dhyanesh 👋
+<div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." />
+</div>
 
-I'm a Computer Science undergraduate at VIT Vellore with a strong interest in systems-oriented software engineering.
+<br />
 
-My work spans developer tools, backend systems, networking, distributed systems, storage platforms, and applied machine learning. I enjoy building projects that emphasize thoughtful architecture, performance, and solving real engineering problems.
+<p align="center">
+  <a href="https://github.com/Dhyanesh2603/nous"><b>NOUS</b></a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#interests">Interests</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#contact">Contact</a>
+</p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## Featured Projects
+### Currently building
 
-### Nous
-**Software Architecture Intelligence Platform**
+<a href="https://github.com/Dhyanesh2603/nous">
+  <img src="./assets/building.svg" width="100%" alt="Currently building NOUS — AST pipeline, dependency graph, semantic index." />
+</a>
 
-Nous is a static code analysis platform that transforms large codebases into interactive architectural knowledge graphs. It parses repositories into Abstract Syntax Trees (ASTs), constructs dependency and call graphs, enables semantic architecture search, provides Graph-RAG powered architectural reasoning, predicts change impact through a Ripple Effect Simulator, and performs security and architecture diagnostics.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Highlights**
-- Polyglot AST parsing using Tree-sitter
-- Dependency & call graph generation
-- Semantic code search
-- Graph-RAG powered architecture assistant
-- Interactive architecture visualization
-- Ripple Effect Simulator
-- Security & architecture analysis
+### Featured engineering
 
-**Tech**
-`FastAPI` • `React` • `TypeScript` • `Tree-sitter` • `NetworkX` • `PostgreSQL`
+<a href="https://github.com/Dhyanesh2603/nous">
+  <img src="./assets/nous.svg" width="100%" alt="NOUS — Software Architecture Intelligence Platform. AST parsing, dependency graphs, semantic search and AI-assisted code understanding." />
+</a>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>WHY IT'S HARD</sub><br />
+      Turning raw source into a queryable model of a system means building a
+      parser layer, a graph engine and a retrieval layer that agree with each
+      other — then making it feel instant.
+    </td>
+    <td width="50%" valign="top">
+      <sub>DESIGN PRINCIPLES</sub><br />
+      Deterministic analysis first, AI second. The LLM never guesses structure;
+      it reasons over a graph the system has already proven.
+    </td>
+  </tr>
+</table>
 
-### MockForge
-**AI Mock Interview Platform**
+<br />
 
-An end-to-end platform for technical interview preparation featuring AI-generated interviews, real-time coding sessions, browser-based proctoring, speech analytics, and automated interview evaluation.
+<sub>FUTURE BUILDS</sub>
 
-**Highlights**
-- AI interview generation
-- Real-time coding interviews
-- Browser-based proctoring
-- Speech analytics
-- Interview history & evaluation
-- Multiplayer interview sessions
+<img src="./assets/future.svg" width="100%" alt="Reserved slots: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." />
 
-**Tech**
-`React` • `Node.js` • `Express` • `PostgreSQL` • `Firebase` • `Socket.IO`
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
+<h3 id="stack">Technical stack</h3>
 
-### VinnoDrive
-**Cloud Storage Platform**
+<img src="./assets/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: ML, Deep Learning, LLM Applications, RAG, Computer Vision. Systems: Networking, OS, Distributed, Embedded." />
 
-A cloud storage platform focused on efficient storage through content-addressed deduplication, version history, secure sharing, developer APIs, and full-text search.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Highlights**
-- SHA-256 content deduplication
-- Version history
-- Secure file sharing
-- Full-text search
-- Developer REST APIs
-- Storage analytics
+<h3 id="interests">Learning &amp; interests</h3>
 
-**Tech**
-`FastAPI` • `SQLAlchemy` • `PostgreSQL` • `SQLite`
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>Systems</b><br />
+      <sub>How real infrastructure stays up — consensus, storage engines, networking internals.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>AI Engineering</b><br />
+      <sub>Moving models from notebooks into reliable, observable production systems.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>Developer Tools</b><br />
+      <sub>Compilers, static analysis and the craft of tools engineers actually enjoy.</sub>
+    </td>
+  </tr>
+</table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### Arete
-**Engineering Productivity Platform**
+<h3 id="contact">Contact</h3>
 
-A productivity platform designed for software engineers that combines DSA tracking, spaced repetition, deep work, strategic planning, and long-term learning into a single workflow.
+Open to **SDE, AI Engineering and Systems** internships and roles.
 
-**Highlights**
-- SM-2 spaced repetition
-- DSA roadmap tracker
-- Daily execution engine
-- Deep work sessions
-- Goal & milestone tracking
-- Command palette
+<table>
+  <tr>
+    <td><sub>EMAIL</sub><br /><a href="mailto:your.email@example.com">your.email@example.com</a></td>
+    <td><sub>LINKEDIN</sub><br /><a href="https://linkedin.com/in/your-handle">in/your-handle</a></td>
+    <td><sub>GITHUB</sub><br /><a href="https://github.com/Dhyanesh2603">@Dhyanesh2603</a></td>
+  </tr>
+</table>
 
-**Tech**
-`Flutter` • `Riverpod` • `Supabase`
+<br />
 
----
-
-## Currently Building
-
-### Hoprix
-
-An offline-first peer-to-peer networking platform designed for high-speed communication without internet access. It features peer discovery, resumable transfers, custom transport protocols, and a modular architecture for future offline services.
-
-**Current Focus**
-- Custom transport protocol
-- Zero-copy file streaming
-- Peer discovery
-- Reliable resumable transfers
-- Offline networking
-
----
-
-### Resonare
-
-An acoustic desk interface that transforms any desk into a touchless control surface using only a laptop's built-in microphones through Digital Signal Processing and Machine Learning.
-
-**Current Focus**
-- Acoustic signal processing
-- Feature extraction
-- Random Forest based classification
-- Spatial localization
-- Real-time desktop interaction
-
----
-
-## Technical Interests
-
-- Systems Software
-- Backend Engineering
-- Developer Tools
-- Distributed Systems
-- Networking
-- Static Code Analysis
-- Machine Learning
-- Digital Signal Processing
-- Software Architecture
-
----
-
-## Languages & Technologies
-
-**Languages**
-
-Python • TypeScript • JavaScript • Dart • Java • C • C++
-
-**Backend**
-
-FastAPI • Node.js • Express
-
-**Frontend**
-
-React • Flutter • Tailwind CSS
-
-**Databases**
-
-PostgreSQL • SQLite • Supabase
-
-**Tools & Technologies**
-
-Git • Linux • Docker • Tree-sitter • WebSockets • Firebase
-
----
-
-## Currently Learning
-
-- Distributed Systems
-- Networking Protocol Design
-- Compiler & Static Analysis Techniques
-- Signal Processing
-- System Design
-
----
-
-## Connect
-
--  **Email:** dhyanesh263@gmail.com
+<img src="./assets/footer.svg" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" />

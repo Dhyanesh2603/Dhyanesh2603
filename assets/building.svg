@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Currently building: NOUS">
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .pulse{animation:p 2s ease-out infinite;transform-origin:44px 50px}
+    @keyframes p{0%{opacity:.6;transform:scale(1)}100%{opacity:0;transform:scale(3)}}
+    .bar{animation:b 3.2s ease-in-out infinite alternate}
+    @keyframes b{from{width:540px}to{width:610px}}
+  </style>
+  <rect x=".5" y=".5" width="1199" height="199" rx="12" fill="#0a0a0b" stroke="#1f1f22"/>
+  <circle cx="44" cy="50" r="4" fill="#22c55e" class="pulse"/>
+  <circle cx="44" cy="50" r="4" fill="#22c55e"/>
+  <text x="60" y="55" class="mono" font-size="13" fill="#a1a1aa" letter-spacing="1.5">CURRENTLY BUILDING</text>
+  <text x="1164" y="55" text-anchor="end" class="mono" font-size="13" fill="#52525b">main · active</text>
+
+  <text x="36" y="104" class="sans" font-size="30" font-weight="600" fill="#fafafa" letter-spacing="-.8">NOUS</text>
+  <text x="128" y="104" class="sans" font-size="18" fill="#71717a">Software Architecture Intelligence Platform</text>
+
+  <g class="mono" font-size="13">
+    <text x="36" y="146" fill="#52525b">now</text>
+    <text x="90" y="146" fill="#d4d4d8">AST pipeline → dependency graph → semantic index</text>
+    <text x="1164" y="146" text-anchor="end" fill="#52525b">parser · graph · retrieval · ui</text>
+  </g>
+  <rect x="36" y="166" width="1128" height="3" rx="1.5" fill="#18181b"/>
+  <rect x="36" y="166" width="560" height="3" rx="1.5" fill="#e4e4e7" class="bar"/>
+</svg>
