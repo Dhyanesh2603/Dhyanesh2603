@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero.svg?v=3" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." />
+  <img src="./assets/v2/intro.svg" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." />
 </div>
 
 <br />
@@ -11,49 +11,54 @@
   <a href="#contact">Contact</a>
 </p>
 
-<img src="./assets/divider.svg?v=3" width="100%" alt="" />
+<img src="./assets/v2/line.svg" width="100%" alt="" />
 
 ### Currently
 
-<img src="./assets/building.svg?v=4" width="100%" alt="Building developer tools and code intelligence. Studying systems, networks and distributed computing. Exploring LLM applications and retrieval systems." />
+<img src="./assets/v2/now.svg" width="100%" alt="Building developer tools and code intelligence. Studying systems, networks and distributed computing. Exploring LLM applications and retrieval systems." />
 
-<img src="./assets/divider.svg?v=3" width="100%" alt="" />
+<img src="./assets/v2/line.svg" width="100%" alt="" />
 
-<h3 id="projects">Featured engineering</h3>
-
-<a href="https://github.com/Dhyanesh2603/nous">
-  <img src="./assets/nous.svg?v=3" width="100%" alt="NOUS — Software Architecture Intelligence Platform. AST parsing, dependency graphs, semantic search and AI-assisted code understanding." />
-</a>
+<h3 id="projects">Engineering projects</h3>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <sub>WHY IT'S HARD</sub><br />
-      Turning raw source into a queryable model of a system means building a
-      parser layer, a graph engine and a retrieval layer that agree with each
-      other — then making it feel instant.
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/Nous"><img src="./assets/v2/nous.svg" width="100%" alt="Nous — Software architecture intelligence platform" /></a>
     </td>
-    <td width="50%" valign="top">
-      <sub>DESIGN PRINCIPLES</sub><br />
-      Deterministic analysis first, AI second. The LLM never guesses structure;
-      it reasons over a graph the system has already proven.
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/Codemap"><img src="./assets/v2/codemap.svg" width="100%" alt="CodeMap — Change impact and architecture drift analysis" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI technical interview and coding platform" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/Vaultix"><img src="./assets/v2/vaultix.svg" width="100%" alt="Vaultix — Multi-tenant cloud storage platform" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/Arete"><img src="./assets/v2/arete.svg" width="100%" alt="Arete — Engineering productivity workspace" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/JustDeal"><img src="./assets/v2/justdeal.svg" width="100%" alt="JustDeal — AI real estate investment advisor" /></a>
     </td>
   </tr>
 </table>
 
-<br />
+<sub>NEXT BUILDS</sub>
 
-<sub>FUTURE BUILDS</sub>
+<img src="./assets/v2/next.svg" width="100%" alt="Next: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." />
 
-<img src="./assets/future.svg?v=3" width="100%" alt="Reserved slots: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." />
-
-<img src="./assets/divider.svg?v=3" width="100%" alt="" />
+<img src="./assets/v2/line.svg" width="100%" alt="" />
 
 <h3 id="stack">Technical stack</h3>
 
-<img src="./assets/stack.svg?v=3" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: ML, Deep Learning, LLM Applications, RAG, Computer Vision. Systems: Networking, OS, Distributed, Embedded." />
+<img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: Machine Learning, Deep Learning, LLM Applications, RAG Systems, Computer Vision. Systems: Networking, Operating Systems, Distributed Systems, Embedded Systems." />
 
-<img src="./assets/divider.svg?v=3" width="100%" alt="" />
+<img src="./assets/v2/line.svg" width="100%" alt="" />
 
 <h3 id="interests">Learning &amp; interests</h3>
 
@@ -74,7 +79,7 @@
   </tr>
 </table>
 
-<img src="./assets/divider.svg?v=3" width="100%" alt="" />
+<img src="./assets/v2/line.svg" width="100%" alt="" />
 
 <h3 id="contact">Contact</h3>
 
@@ -90,4 +95,4 @@ Open to **SDE, AI Engineering and Systems** internships and roles.
 
 <br />
 
-<img src="./assets/footer.svg?v=3" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" />
+<img src="./assets/v2/end.svg" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" />

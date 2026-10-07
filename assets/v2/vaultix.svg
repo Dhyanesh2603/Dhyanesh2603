@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" width="600" height="350" role="img" aria-label="Vaultix - Multi-tenant cloud storage platform">
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+    .sweep{animation:s 5s ease-in-out infinite}
+    @keyframes s{0%{transform:translateX(-200px)}60%,100%{transform:translateX(620px)}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d0d0f"/><stop offset="1" stop-color="#08080a"/></linearGradient>
+    <linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect x=".5" y=".5" width="599" height="349" rx="14" fill="url(#bg)" stroke="#1f1f22"/>
+  <rect x="0" y="0" width="160" height="1" fill="url(#hl)" class="sweep"/>
+  <text x="32" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">04 &#8212; INFRASTRUCTURE</text>
+  <text x="568" y="44" text-anchor="end" class="mono" font-size="13" fill="#52525b">&#8599;</text>
+  <text x="32" y="94" class="sans" font-size="32" font-weight="600" fill="#fafafa" letter-spacing="-1">Vaultix</text>
+  <text x="32" y="122" class="sans" font-size="16" fill="#a1a1aa">Multi-tenant cloud storage platform</text>
+  <text x="32" y="164" class="sans" font-size="14" fill="#d4d4d8">Storage that scales efficiently without duplicating data.</text>
+  <line x1="32" y1="190" x2="568" y2="190" stroke="#18181b"/>
+  <g class="sans" font-size="14" fill="#a1a1aa"><rect x="32" y="217" width="6" height="1.5" fill="#52525b"/><text x="48" y="222">Content-addressed deduplication</text><rect x="32" y="241" width="6" height="1.5" fill="#52525b"/><text x="48" y="246">Tenant isolation and developer APIs</text><rect x="32" y="265" width="6" height="1.5" fill="#52525b"/><text x="48" y="270">In-browser editors for stored files</text></g>
+  <g class="mono" font-size="12" fill="#a1a1aa"><rect x="32" y="300" width="70" height="26" rx="13" fill="none" stroke="#27272a"/><text x="67" y="317" text-anchor="middle">Python</text><rect x="110" y="300" width="77" height="26" rx="13" fill="none" stroke="#27272a"/><text x="148.5" y="317" text-anchor="middle">FastAPI</text><rect x="195" y="300" width="99" height="26" rx="13" fill="none" stroke="#27272a"/><text x="244.5" y="317" text-anchor="middle">SQLAlchemy</text><rect x="302" y="300" width="99" height="26" rx="13" fill="none" stroke="#27272a"/><text x="351.5" y="317" text-anchor="middle">PostgreSQL</text></g>
+</svg>

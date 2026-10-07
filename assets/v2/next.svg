@@ -7,28 +7,28 @@
   </style>
   <g>
     <rect x="1" y="1" width="282" height="218" rx="12" fill="#0a0a0b" stroke="#27272a" class="slot"/>
-    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">02 — RESERVED</text>
+    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">07 — NEXT</text>
     <text x="28" y="120" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Distributed</text>
     <text x="28" y="146" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Systems</text>
     <text x="28" y="192" class="mono" font-size="12" fill="#52525b">consensus · storage</text>
   </g>
   <g transform="translate(305 0)">
     <rect x="1" y="1" width="282" height="218" rx="12" fill="#0a0a0b" stroke="#27272a" class="slot"/>
-    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">03 — RESERVED</text>
+    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">08 — NEXT</text>
     <text x="28" y="120" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">AI</text>
     <text x="28" y="146" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Infrastructure</text>
     <text x="28" y="192" class="mono" font-size="12" fill="#52525b">inference · retrieval</text>
   </g>
   <g transform="translate(610 0)">
     <rect x="1" y="1" width="282" height="218" rx="12" fill="#0a0a0b" stroke="#27272a" class="slot"/>
-    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">04 — RESERVED</text>
+    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">09 — NEXT</text>
     <text x="28" y="120" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Developer</text>
     <text x="28" y="146" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Tools</text>
     <text x="28" y="192" class="mono" font-size="12" fill="#52525b">compilers · CLIs</text>
   </g>
   <g transform="translate(915 0)">
     <rect x="1" y="1" width="282" height="218" rx="12" fill="#0a0a0b" stroke="#27272a" class="slot"/>
-    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">05 — RESERVED</text>
+    <text x="28" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">10 — NEXT</text>
     <text x="28" y="120" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Scalable</text>
     <text x="28" y="146" class="sans" font-size="22" font-weight="600" fill="#e4e4e7" letter-spacing="-.5">Products</text>
     <text x="28" y="192" class="mono" font-size="12" fill="#52525b">0 → 1 → n</text>
