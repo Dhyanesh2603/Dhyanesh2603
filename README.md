@@ -35,7 +35,7 @@
       <a href="https://github.com/Dhyanesh2603/Vaultix"><img src="./assets/v2/vaultix.svg" width="100%" alt="Vaultix — Secure Cloud Storage Platform" /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/Arete"><img src="./assets/v2/arete.svg" width="100%" alt="Arete — Engineering Productivity Workspace" /></a>
+      <a href="https://github.com/Dhyanesh2603/MyOs"><img src="./assets/v2/flowos.svg" width="100%" alt="FlowOS — Web Desktop Operating System" /></a>
     </td>
   </tr>
 </table>
@@ -45,14 +45,19 @@
 <br />
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <b>CodeMap</b><br />
-      <sub>Change impact analysis and architecture drift detection across repositories. Shares design lineage with Nous.</sub><br />
+      <sub>Change impact analysis and architecture drift detection across repositories.</sub><br />
       <a href="https://github.com/Dhyanesh2603/Codemap"><sub>github.com/Dhyanesh2603/Codemap</sub></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
+      <b>Arete</b><br />
+      <sub>Modular engineering productivity workspace built on Flutter Web and Supabase.</sub><br />
+      <a href="https://github.com/Dhyanesh2603/Arete"><sub>github.com/Dhyanesh2603/Arete</sub></a>
+    </td>
+    <td width="33%" valign="top">
       <b>JustDeal</b><br />
-      <sub>AI-powered real estate investment advisor. ML models for price prediction, rental yield, and risk analysis.</sub><br />
+      <sub>AI-powered real estate investment advisor with valuation and risk analysis.</sub><br />
       <a href="https://github.com/Dhyanesh2603/JustDeal"><sub>github.com/Dhyanesh2603/JustDeal</sub></a>
     </td>
   </tr>
