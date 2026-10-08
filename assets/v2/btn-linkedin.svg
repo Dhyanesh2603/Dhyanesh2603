@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" role="img" aria-label="LinkedIn: Dhyanesh S">
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+  </style>
+  <rect x=".5" y=".5" width="199" height="47" rx="10" fill="#0a0a0b" stroke="#27272a"/>
+  <g transform="translate(16 14)">
+    <rect x="0" y="0" width="18" height="18" rx="3" fill="none" stroke="#a1a1aa" stroke-width="1.5"/>
+    <path d="M5.5 8v5M5.5 5.5v.01M8.5 13V9.5a2 2 0 0 1 4 0V13M8.5 8v5" fill="none" stroke="#a1a1aa" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="44" y="22" class="mono" font-size="10" fill="#52525b">LINKEDIN</text>
+  <text x="44" y="37" class="sans" font-size="13" fill="#fafafa">Dhyanesh S</text>
+</svg>

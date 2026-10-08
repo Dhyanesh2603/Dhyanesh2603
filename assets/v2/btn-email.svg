@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 48" width="200" height="48" role="img" aria-label="Email: dhyanesh263@gmail.com">
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
+  </style>
+  <rect x=".5" y=".5" width="199" height="47" rx="10" fill="#0a0a0b" stroke="#27272a"/>
+  <g transform="translate(16 16)" fill="none" stroke="#a1a1aa" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="18" height="14" rx="2"/>
+    <polyline points="0,0 9,8 18,0"/>
+  </g>
+  <text x="44" y="22" class="mono" font-size="10" fill="#52525b">EMAIL</text>
+  <text x="44" y="37" class="sans" font-size="12" fill="#fafafa">dhyanesh263@gmail.com</text>
+</svg>

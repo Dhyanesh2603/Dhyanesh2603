@@ -92,13 +92,11 @@
 
 Open to **SDE, AI Engineering and Systems** internships and roles.
 
-<table>
-  <tr>
-    <td><sub>GITHUB</sub><br /><a href="https://github.com/Dhyanesh2603">@Dhyanesh2603</a></td>
-    <td><sub>EMAIL</sub><br /><a href="mailto:dhyanesh263@gmail.com">dhyanesh263@gmail.com</a></td>
-    <td><sub>LINKEDIN</sub><br /><a href="https://linkedin.com/in/dhyanesh-s">in/dhyanesh-s</a></td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/Dhyanesh2603"><img src="./assets/v2/btn-github.svg" height="48" alt="GitHub: @Dhyanesh2603" /></a>&nbsp;&nbsp;
+  <a href="mailto:dhyanesh263@gmail.com"><img src="./assets/v2/btn-email.svg" height="48" alt="Email: dhyanesh263@gmail.com" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dhyanesh-s-6a42b3411"><img src="./assets/v2/btn-linkedin.svg" height="48" alt="LinkedIn: Dhyanesh S" /></a>
+</p>
 
 <br />
 
