@@ -1,5 +1,5 @@
 <div align="center">
-  <picture><img src="./assets/v2/intro.svg" width="100%" alt="$ whoami — Dhyanesh S, Software Engineer in Progress. Building intelligent systems, developer tools, and software designed to scale. AI × Systems × Product Engineering." /></picture>
+  <picture><img src="./assets/v2/intro.svg" width="100%" alt="Dhyanesh S. Computer Science, VIT Vellore. Building intelligent systems, developer tools, and scalable software. AI, Systems, Developer Tools." /></picture>
 </div>
 
 <br />
@@ -15,48 +15,55 @@
 
 ### Currently
 
-<picture><img src="./assets/v2/now.svg" width="100%" alt="Building developer tools and code intelligence. Studying systems, networks and distributed computing. Exploring LLM applications and retrieval systems." /></picture>
+<picture><img src="./assets/v2/now.svg" width="100%" alt="Building architecture-aware developer tools and code intelligence. Researching LLM reasoning grounded in static analysis and retrieval. Deepening knowledge in distributed systems, consensus protocols, storage engines." /></picture>
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
-<h3 id="projects">Engineering projects</h3>
+<h3 id="projects">Selected projects</h3>
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/Nous"><img src="./assets/v2/nous.svg" width="100%" alt="Nous — Software architecture intelligence platform" /></a>
+      <a href="https://github.com/Dhyanesh2603/Nous"><img src="./assets/v2/nous.svg" width="100%" alt="Nous — Software Architecture Intelligence Platform" /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/Codemap"><img src="./assets/v2/codemap.svg" width="100%" alt="CodeMap — Change impact and architecture drift analysis" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI technical interview and coding platform" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/Vaultix"><img src="./assets/v2/vaultix.svg" width="100%" alt="Vaultix — Multi-tenant cloud storage platform" /></a>
+      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI Interview Engineering Platform" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/Arete"><img src="./assets/v2/arete.svg" width="100%" alt="Arete — Engineering productivity workspace" /></a>
+      <a href="https://github.com/Dhyanesh2603/Vaultix"><img src="./assets/v2/vaultix.svg" width="100%" alt="Vaultix — Secure Cloud Storage Platform" /></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/JustDeal"><img src="./assets/v2/justdeal.svg" width="100%" alt="JustDeal — AI real estate investment advisor" /></a>
+      <a href="https://github.com/Dhyanesh2603/Arete"><img src="./assets/v2/arete.svg" width="100%" alt="Arete — Engineering Productivity Workspace" /></a>
     </td>
   </tr>
 </table>
 
-<sub>NEXT BUILDS</sub>
-
-<picture><img src="./assets/v2/next.svg" width="100%" alt="Next: Distributed Systems, AI Infrastructure, Developer Tools, Scalable Products." /></picture>
+<details>
+<summary><sub>OTHER EXPERIMENTS</sub></summary>
+<br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>CodeMap</b><br />
+      <sub>Change impact analysis and architecture drift detection across repositories. Shares design lineage with Nous.</sub><br />
+      <a href="https://github.com/Dhyanesh2603/Codemap"><sub>github.com/Dhyanesh2603/Codemap</sub></a>
+    </td>
+    <td width="50%" valign="top">
+      <b>JustDeal</b><br />
+      <sub>AI-powered real estate investment advisor. ML models for price prediction, rental yield, and risk analysis.</sub><br />
+      <a href="https://github.com/Dhyanesh2603/JustDeal"><sub>github.com/Dhyanesh2603/JustDeal</sub></a>
+    </td>
+  </tr>
+</table>
+</details>
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
 <h3 id="stack">Technical stack</h3>
 
-<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Frontend: React, React Native, Flutter, Tailwind CSS. Backend: Node.js, FastAPI, PostgreSQL, Supabase. AI: Machine Learning, Deep Learning, LLM Applications, RAG Systems, Computer Vision. Systems: Networking, Operating Systems, Distributed Systems, Embedded Systems." /></picture>
+<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Software Engineering: React, React Native, Flutter, Node.js, FastAPI, PostgreSQL, Supabase. AI Engineering: Machine Learning, Deep Learning, LLM Applications, RAG Systems. Foundations: Data Structures, Networks, Operating Systems, Databases, Distributed Systems." /></picture>
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
@@ -87,12 +94,12 @@ Open to **SDE, AI Engineering and Systems** internships and roles.
 
 <table>
   <tr>
-    <td><sub>EMAIL</sub><br /><a href="mailto:your.email@example.com">your.email@example.com</a></td>
-    <td><sub>LINKEDIN</sub><br /><a href="https://linkedin.com/in/your-handle">in/your-handle</a></td>
     <td><sub>GITHUB</sub><br /><a href="https://github.com/Dhyanesh2603">@Dhyanesh2603</a></td>
+    <td><sub>EMAIL</sub><br /><a href="mailto:dhyanesh.s2603@gmail.com">dhyanesh.s2603@gmail.com</a></td>
+    <td><sub>LINKEDIN</sub><br /><a href="https://linkedin.com/in/dhyanesh-s">in/dhyanesh-s</a></td>
   </tr>
 </table>
 
 <br />
 
-<picture><img src="./assets/v2/end.svg" width="100%" alt="Dhyanesh S · Vellore, IN · 2026" /></picture>
+<picture><img src="./assets/v2/end.svg" width="100%" alt="Dhyanesh S · Vellore, IN" /></picture>

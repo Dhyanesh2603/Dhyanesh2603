@@ -1,58 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="Technical stack matrix">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-label="Technical stack">
   <style>
     .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
     .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif}
     .row{opacity:0;animation:in .6s ease forwards}
-    .r1{animation-delay:.1s}.r2{animation-delay:.3s}.r3{animation-delay:.5s}.r4{animation-delay:.7s}.r5{animation-delay:.9s}
+    .r1{animation-delay:.1s}.r2{animation-delay:.3s}.r3{animation-delay:.5s}.r4{animation-delay:.7s}
     @keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
     .scan{animation:s 7s ease-in-out infinite}
-    @keyframes s{0%,100%{transform:translateY(0)}50%{transform:translateY(320px)}}
+    @keyframes s{0%,100%{transform:translateY(0)}50%{transform:translateY(260px)}}
     .t{fill:#d4d4d8}.sep{fill:#3f3f46}
   </style>
   <defs>
     <linearGradient id="sc" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-    <clipPath id="c"><rect x="1" y="1" width="1198" height="428" rx="14"/></clipPath>
+    <clipPath id="c"><rect x="1" y="1" width="1198" height="358" rx="14"/></clipPath>
   </defs>
-  <rect x=".5" y=".5" width="1199" height="429" rx="14" fill="#0a0a0b" stroke="#1f1f22"/>
+  <rect x=".5" y=".5" width="1199" height="359" rx="14" fill="#0a0a0b" stroke="#1f1f22"/>
   <g clip-path="url(#c)"><rect x="0" y="50" width="1200" height="60" fill="url(#sc)" class="scan"/></g>
 
   <text x="40" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">LAYER</text>
   <text x="250" y="44" class="mono" font-size="11" fill="#52525b" letter-spacing="2">STACK</text>
-  <text x="1160" y="44" text-anchor="end" class="mono" font-size="11" fill="#52525b" letter-spacing="2">DEPTH</text>
   <line x1="40" y1="62" x2="1160" y2="62" stroke="#1f1f22"/>
 
   <g class="row r1">
     <text x="40" y="112" class="mono" font-size="12" fill="#52525b">01</text>
     <text x="76" y="112" class="sans" font-size="17" font-weight="600" fill="#fafafa">Languages</text>
     <text x="250" y="112" class="sans" font-size="16"><tspan class="t">Java</tspan><tspan class="sep">  /  </tspan><tspan class="t">Python</tspan><tspan class="sep">  /  </tspan><tspan class="t">C++</tspan><tspan class="sep">  /  </tspan><tspan class="t">TypeScript</tspan><tspan class="sep">  /  </tspan><tspan class="t">JavaScript</tspan><tspan class="sep">  /  </tspan><tspan class="t">Dart</tspan><tspan class="sep">  /  </tspan><tspan class="t">SQL</tspan></text>
-    <g transform="translate(1080 104)"><rect width="80" height="4" rx="2" fill="#18181b"/><rect width="68" height="4" rx="2" fill="#e4e4e7"/></g>
     <line x1="40" y1="140" x2="1160" y2="140" stroke="#141416"/>
   </g>
   <g class="row r2">
     <text x="40" y="186" class="mono" font-size="12" fill="#52525b">02</text>
-    <text x="76" y="186" class="sans" font-size="17" font-weight="600" fill="#fafafa">Frontend</text>
-    <text x="250" y="186" class="sans" font-size="16"><tspan class="t">React</tspan><tspan class="sep">  /  </tspan><tspan class="t">React Native</tspan><tspan class="sep">  /  </tspan><tspan class="t">Flutter</tspan><tspan class="sep">  /  </tspan><tspan class="t">Tailwind CSS</tspan></text>
-    <g transform="translate(1080 178)"><rect width="80" height="4" rx="2" fill="#18181b"/><rect width="62" height="4" rx="2" fill="#e4e4e7"/></g>
+    <text x="76" y="186" class="sans" font-size="17" font-weight="600" fill="#fafafa">Software Engineering</text>
+    <text x="250" y="186" class="sans" font-size="16"><tspan class="t">React</tspan><tspan class="sep">  /  </tspan><tspan class="t">React Native</tspan><tspan class="sep">  /  </tspan><tspan class="t">Flutter</tspan><tspan class="sep">  /  </tspan><tspan class="t">Node.js</tspan><tspan class="sep">  /  </tspan><tspan class="t">FastAPI</tspan><tspan class="sep">  /  </tspan><tspan class="t">PostgreSQL</tspan><tspan class="sep">  /  </tspan><tspan class="t">Supabase</tspan></text>
     <line x1="40" y1="214" x2="1160" y2="214" stroke="#141416"/>
   </g>
   <g class="row r3">
     <text x="40" y="260" class="mono" font-size="12" fill="#52525b">03</text>
-    <text x="76" y="260" class="sans" font-size="17" font-weight="600" fill="#fafafa">Backend</text>
-    <text x="250" y="260" class="sans" font-size="16"><tspan class="t">Node.js</tspan><tspan class="sep">  /  </tspan><tspan class="t">FastAPI</tspan><tspan class="sep">  /  </tspan><tspan class="t">PostgreSQL</tspan><tspan class="sep">  /  </tspan><tspan class="t">Supabase</tspan></text>
-    <g transform="translate(1080 252)"><rect width="80" height="4" rx="2" fill="#18181b"/><rect width="60" height="4" rx="2" fill="#e4e4e7"/></g>
+    <text x="76" y="260" class="sans" font-size="17" font-weight="600" fill="#fafafa">AI Engineering</text>
+    <text x="250" y="260" class="sans" font-size="16"><tspan class="t">Machine Learning</tspan><tspan class="sep">  /  </tspan><tspan class="t">Deep Learning</tspan><tspan class="sep">  /  </tspan><tspan class="t">LLM Applications</tspan><tspan class="sep">  /  </tspan><tspan class="t">RAG Systems</tspan></text>
     <line x1="40" y1="288" x2="1160" y2="288" stroke="#141416"/>
   </g>
   <g class="row r4">
     <text x="40" y="334" class="mono" font-size="12" fill="#52525b">04</text>
-    <text x="76" y="334" class="sans" font-size="17" font-weight="600" fill="#fafafa">AI</text>
-    <text x="250" y="334" class="sans" font-size="16"><tspan class="t">Machine Learning</tspan><tspan class="sep">  /  </tspan><tspan class="t">Deep Learning</tspan><tspan class="sep">  /  </tspan><tspan class="t">LLM Applications</tspan><tspan class="sep">  /  </tspan><tspan class="t">RAG Systems</tspan><tspan class="sep">  /  </tspan><tspan class="t">Computer Vision</tspan></text>
-    <g transform="translate(1080 326)"><rect width="80" height="4" rx="2" fill="#18181b"/><rect width="58" height="4" rx="2" fill="#3b82f6"/></g>
-    <line x1="40" y1="362" x2="1160" y2="362" stroke="#141416"/>
-  </g>
-  <g class="row r5">
-    <text x="40" y="404" class="mono" font-size="12" fill="#52525b">05</text>
-    <text x="76" y="404" class="sans" font-size="17" font-weight="600" fill="#fafafa">Systems</text>
-    <text x="250" y="404" class="sans" font-size="16"><tspan class="t">Networking</tspan><tspan class="sep">  /  </tspan><tspan class="t">Operating Systems</tspan><tspan class="sep">  /  </tspan><tspan class="t">Distributed Systems</tspan><tspan class="sep">  /  </tspan><tspan class="t">Embedded Systems</tspan></text>
-    <g transform="translate(1080 396)"><rect width="80" height="4" rx="2" fill="#18181b"/><rect width="50" height="4" rx="2" fill="#e4e4e7"/></g>
+    <text x="76" y="334" class="sans" font-size="17" font-weight="600" fill="#fafafa">Foundations</text>
+    <text x="250" y="334" class="sans" font-size="16"><tspan class="t">Data Structures</tspan><tspan class="sep">  /  </tspan><tspan class="t">Networks</tspan><tspan class="sep">  /  </tspan><tspan class="t">Operating Systems</tspan><tspan class="sep">  /  </tspan><tspan class="t">Databases</tspan><tspan class="sep">  /  </tspan><tspan class="t">Distributed Systems</tspan></text>
   </g>
 </svg>
