@@ -19,27 +19,27 @@
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
-<h3 id="flagship-systems">Featured Flagship Systems</h3>
+<h3 id="flagship-systems">Top Flagship Systems</h3>
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI Interview Engineering Platform" /></a>
-      <p align="center"><sub>Enterprise AI technical interview simulation, compiler sandbox & real-time multiplayer coding arena.</sub></p>
-    </td>
-    <td width="50%">
       <a href="https://github.com/Dhyanesh2603/Nous"><img src="./assets/v2/nous.svg" width="100%" alt="Nous — Software Architecture Intelligence Platform" /></a>
-      <p align="center"><sub>Static codebase analysis platform and interactive architecture dependency visualizer.</sub></p>
+      <p align="center"><sub>Enterprise static codebase analysis, dependency graph extraction & architecture intelligence.</sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <a href="https://github.com/Dhyanesh2603/Vaultix"><img src="./assets/v2/vaultix.svg" width="100%" alt="Vaultix — Secure Cloud Storage Platform" /></a>
       <p align="center"><sub>High-performance cloud storage with content-addressed deduplication and in-browser editors.</sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <a href="https://github.com/Dhyanesh2603/MyOs"><img src="./assets/v2/flowos.svg" width="100%" alt="FlowOS — Web Desktop Operating System" /></a>
       <p align="center"><sub>Hardware-accelerated web OS with window virtualization, Web Audio API & IndexedDB storage.</sub></p>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI Interview Engineering Platform" /></a>
+      <p align="center"><sub>Enterprise AI technical interview simulation, compiler sandbox & real-time multiplayer coding arena.</sub></p>
     </td>
   </tr>
 </table>
@@ -50,20 +50,20 @@
 
 <table>
   <tr>
-    <th width="33%">⚡ Autonomous Agents &amp; DevTools</th>
+    <th width="33%">⚡ Code Intelligence &amp; DevTools</th>
     <th width="33%">🛡️ Distributed Systems &amp; Concurrency</th>
     <th width="33%">📱 Offline-First &amp; Deep Tech</th>
   </tr>
   <tr>
     <td valign="top">
-      • <a href="https://github.com/Dhyanesh2603/AiDEX"><b>AiDEX</b></a> <i>(Rust + Tauri)</i><br />
-      <sub>High-performance autonomous AI developer environment and workspace daemon.</sub><br /><br />
       • <a href="https://github.com/Dhyanesh2603/Codemap"><b>Codemap</b></a> <i>(Python)</i><br />
       <sub>Codebase intelligence, AST drift detection and change blast-radius analysis.</sub><br /><br />
       • <a href="https://github.com/Dhyanesh2603/culprit"><b>culprit</b></a> <i>(TypeScript)</i><br />
       <sub>Production incident attribution correlating errors directly to git commits.</sub><br /><br />
       • <a href="https://github.com/Dhyanesh2603/change-detector"><b>change-detector</b></a> <i>(Python)</i><br />
-      <sub>Automated visual regression and website change monitoring platform.</sub>
+      <sub>Automated visual regression and website change monitoring platform.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/ggblog"><b>ggblog</b></a> <i>(TypeScript + React)</i><br />
+      <sub>Modern web novel and technical reader platform with writer studio.</sub>
     </td>
     <td valign="top">
       • <a href="https://github.com/Dhyanesh2603/TheLastSeat"><b>TheLastSeat</b></a> <i>(Python)</i><br />
@@ -92,7 +92,7 @@
 
 <h3 id="stack">Technical Stack</h3>
 
-<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL, Rust. Software Engineering: React, React Native, Flutter, Node.js, FastAPI, PostgreSQL, Supabase, Tauri. AI Engineering: Machine Learning, Deep Learning, LLM Applications, RAG Systems. Foundations: Data Structures, Networks, Operating Systems, Databases, Distributed Systems." /></picture>
+<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Software Engineering: React, React Native, Flutter, Node.js, FastAPI, PostgreSQL, Supabase. AI Engineering: Machine Learning, Deep Learning, LLM Applications, RAG Systems. Foundations: Data Structures, Networks, Operating Systems, Databases, Distributed Systems." /></picture>
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
