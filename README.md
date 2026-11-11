@@ -5,9 +5,9 @@
 <br />
 
 <p align="center">
-  <a href="#projects">Projects</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#stack">Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="#interests">Interests</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#flagship-systems">Featured Systems</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#engineering-domains">Domain Architecture</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="#stack">Technical Stack</a>&nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="#contact">Contact</a>
 </p>
 
@@ -19,83 +19,86 @@
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
-<h3 id="projects">Selected projects</h3>
+<h3 id="flagship-systems">Featured Flagship Systems</h3>
 
 <table>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/Nous"><img src="./assets/v2/nous.svg" width="100%" alt="Nous — Software Architecture Intelligence Platform" /></a>
+      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI Interview Engineering Platform" /></a>
+      <p align="center"><sub>Enterprise AI technical interview simulation, compiler sandbox & real-time multiplayer coding arena.</sub></p>
     </td>
     <td width="50%">
-      <a href="https://github.com/Dhyanesh2603/MockForge"><img src="./assets/v2/mockforge.svg" width="100%" alt="MockForge — AI Interview Engineering Platform" /></a>
+      <a href="https://github.com/Dhyanesh2603/Nous"><img src="./assets/v2/nous.svg" width="100%" alt="Nous — Software Architecture Intelligence Platform" /></a>
+      <p align="center"><sub>Static codebase analysis platform and interactive architecture dependency visualizer.</sub></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/Dhyanesh2603/Vaultix"><img src="./assets/v2/vaultix.svg" width="100%" alt="Vaultix — Secure Cloud Storage Platform" /></a>
+      <p align="center"><sub>High-performance cloud storage with content-addressed deduplication and in-browser editors.</sub></p>
     </td>
     <td width="50%">
       <a href="https://github.com/Dhyanesh2603/MyOs"><img src="./assets/v2/flowos.svg" width="100%" alt="FlowOS — Web Desktop Operating System" /></a>
+      <p align="center"><sub>Hardware-accelerated web OS with window virtualization, Web Audio API & IndexedDB storage.</sub></p>
     </td>
   </tr>
 </table>
 
-<details>
-<summary><sub>OTHER EXPERIMENTS</sub></summary>
-<br />
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>CodeMap</b><br />
-      <sub>Change impact analysis and architecture drift detection across repositories.</sub><br />
-      <a href="https://github.com/Dhyanesh2603/Codemap"><sub>github.com/Dhyanesh2603/Codemap</sub></a>
-    </td>
-    <td width="33%" valign="top">
-      <b>Arete</b><br />
-      <sub>Modular engineering productivity workspace built on Flutter Web and Supabase.</sub><br />
-      <a href="https://github.com/Dhyanesh2603/Arete"><sub>github.com/Dhyanesh2603/Arete</sub></a>
-    </td>
-    <td width="33%" valign="top">
-      <b>JustDeal</b><br />
-      <sub>AI-powered real estate investment advisor with valuation and risk analysis.</sub><br />
-      <a href="https://github.com/Dhyanesh2603/JustDeal"><sub>github.com/Dhyanesh2603/JustDeal</sub></a>
-    </td>
-  </tr>
-</table>
-</details>
-
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
-<h3 id="stack">Technical stack</h3>
-
-<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL. Software Engineering: React, React Native, Flutter, Node.js, FastAPI, PostgreSQL, Supabase. AI Engineering: Machine Learning, Deep Learning, LLM Applications, RAG Systems. Foundations: Data Structures, Networks, Operating Systems, Databases, Distributed Systems." /></picture>
-
-<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
-
-<h3 id="interests">Learning &amp; interests</h3>
+<h3 id="engineering-domains">Systems &amp; Engineering Ecosystem</h3>
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>Systems</b><br />
-      <sub>How real infrastructure stays up — consensus, storage engines, networking internals.</sub>
+    <th width="33%">⚡ Autonomous Agents &amp; DevTools</th>
+    <th width="33%">🛡️ Distributed Systems &amp; Concurrency</th>
+    <th width="33%">📱 Offline-First &amp; Deep Tech</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      • <a href="https://github.com/Dhyanesh2603/AiDEX"><b>AiDEX</b></a> <i>(Rust + Tauri)</i><br />
+      <sub>High-performance autonomous AI developer environment and workspace daemon.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/Codemap"><b>Codemap</b></a> <i>(Python)</i><br />
+      <sub>Codebase intelligence, AST drift detection and change blast-radius analysis.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/culprit"><b>culprit</b></a> <i>(TypeScript)</i><br />
+      <sub>Production incident attribution correlating errors directly to git commits.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/change-detector"><b>change-detector</b></a> <i>(Python)</i><br />
+      <sub>Automated visual regression and website change monitoring platform.</sub>
     </td>
-    <td width="33%" valign="top">
-      <b>AI Engineering</b><br />
-      <sub>Moving models from notebooks into reliable, observable production systems.</sub>
+    <td valign="top">
+      • <a href="https://github.com/Dhyanesh2603/TheLastSeat"><b>TheLastSeat</b></a> <i>(Python)</i><br />
+      <sub>High-concurrency ticket engine mathematically guaranteeing zero double-bookings.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/campus-sensor-engine"><b>campus-sensor-engine</b></a> <i>(Python)</i><br />
+      <sub>GDG Staff-level IoT environmental and telemetry sensor stream processing engine.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/ProxyProof"><b>ProxyProof</b></a> <i>(Python + Android)</i><br />
+      <sub>Anti-proxy attendance system with geofenced mobile cryptographic telemetry.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/worklogix"><b>worklogix</b></a> <i>(Python)</i><br />
+      <sub>Enterprise workstation activity telemetry and automated timesheet tracker.</sub>
     </td>
-    <td width="33%" valign="top">
-      <b>Developer Tools</b><br />
-      <sub>Compilers, static analysis and the craft of tools engineers actually enjoy.</sub>
+    <td valign="top">
+      • <a href="https://github.com/Dhyanesh2603/Idem"><b>Idem</b></a> <i>(Dart + Flutter)</i><br />
+      <sub>Offline-first deterministic workstation with local SQLite WAL and FIFO queue sync.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/Arete"><b>Arete</b></a> <i>(Dart + Flutter)</i><br />
+      <sub>Modular engineering productivity workspace built for technical execution.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/thewatercrew"><b>thewatercrew</b></a> <i>(TypeScript)</i><br />
+      <sub>Marine hydrodynamics and environmental remediation with VIT research labs.</sub><br /><br />
+      • <a href="https://github.com/Dhyanesh2603/JustDeal"><b>JustDeal</b></a> <i>(Python + ML)</i><br />
+      <sub>AI real estate valuation and rental yield investment analytics engine.</sub>
     </td>
   </tr>
 </table>
 
 <picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
 
-<h3 id="contact">Contact</h3>
+<h3 id="stack">Technical Stack</h3>
 
-Open to **SDE, AI Engineering and Systems** internships and roles.
+<picture><img src="./assets/v2/stack.svg" width="100%" alt="Languages: Java, Python, C++, TypeScript, JavaScript, Dart, SQL, Rust. Software Engineering: React, React Native, Flutter, Node.js, FastAPI, PostgreSQL, Supabase, Tauri. AI Engineering: Machine Learning, Deep Learning, LLM Applications, RAG Systems. Foundations: Data Structures, Networks, Operating Systems, Databases, Distributed Systems." /></picture>
+
+<picture><img src="./assets/v2/line.svg" width="100%" alt="" /></picture>
+
+<h3 id="contact">Contact &amp; Connect</h3>
+
+Open to **SDE, AI Engineering and Systems** opportunities.
 
 <p>
   <a href="https://github.com/Dhyanesh2603"><img src="./assets/v2/btn-github.svg" height="48" alt="GitHub: @Dhyanesh2603" /></a>&nbsp;&nbsp;
